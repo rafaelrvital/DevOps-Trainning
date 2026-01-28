@@ -16,7 +16,7 @@ This repository is intended for publishing DevOps-focused projects carried out i
 <div align="center">
   <p>
     Alterar para português<br>
-    <a href="https://github.com/rafaelrvital/Java-Trainning/blob/main/README_PT-BR.md">
+    <a href="https://github.com/rafaelrvital/DevOps-Trainning/blob/main/README_PT-BR.md">
       <img src="https://github.com/rafaelrvital/rafaelrvital/blob/main/assets/flags/br.png"
            width="25"
            title="Mudar para português">
